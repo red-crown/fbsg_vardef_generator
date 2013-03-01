@@ -1,0 +1,15 @@
+{
+    "module_name": "Meetings",
+    "properties": {
+        "fields": {
+            "fbsg_accounts_meetings_id": {
+                "type": "id",
+                "vname": "LBL_FBSG_ACCOUNTS_MEETINGS_ID"
+            },
+            "fbsg_meetings_calls": {
+                "type": "name",
+                "vname": "LBL_FBSG_MEETINGS_CALLS"
+            }
+        }
+    }
+}
